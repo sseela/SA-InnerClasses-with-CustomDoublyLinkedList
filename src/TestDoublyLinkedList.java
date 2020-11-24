@@ -8,7 +8,7 @@ public class TestDoublyLinkedList {
 		list.setHead(0);
 		list.setTail(10);
 		list.setLength(11);
-		
+		 
 		
 	}
 }
